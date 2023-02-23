@@ -1,0 +1,16 @@
+#home, #contact,#notfound{
+    height: 100vh;
+}
+
+#navbar {
+    background-color: #b71206;
+}
+
+.btn{
+    background-color: #b71206;
+    color: white;
+}
+
+.container{
+    margin-top: 100px;
+}
